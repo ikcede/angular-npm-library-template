@@ -1,0 +1,25 @@
+{
+  "name": "your-package-name",
+  "description": "TODO: Add description.",
+  "version": "0.0.1",
+  "author": "github-username <https://github.com/github-username>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github-username/your-package-name.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "angular"
+  ],
+  "bugs": {
+    "url": "https://github.com/github-username/your-package-name/issues"
+  },
+  "homepage": "https://github.com/github-username/your-package-name",
+  "peerDependencies": {
+    "@angular/common": ">=19.0.0 <20.0.0",
+    "@angular/core": ">=19.0.0 <20.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  }
+}
